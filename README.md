@@ -1,4 +1,4 @@
-Hello, World! 👋 I am Bruno de Souza — a developer and artist.
+Hello, World! 👋 I am Bruno de Souza a developer and artist.
 
 I have a background in hardware and infrastructure, and I am currently focusing my studies on software development and digital art. I created this GitHub to share my journey, showcase personal projects, and continuously refine my programming and artistic skills.
 
